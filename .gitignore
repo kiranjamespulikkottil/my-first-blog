@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+kiran
+db.sqlite3
+/static
+.DS.Store
